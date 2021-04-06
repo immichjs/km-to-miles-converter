@@ -1,4 +1,5 @@
-# miles-converter
+# Conversor de Km para Milhas
+![](https://i.imgur.com/TrJkEkX.png)
 
 ## Project setup
 ```
